@@ -1,3 +1,7 @@
+"""
+CNPJ and CPF validation script
+Implementes in ERP Odoo by Q.Factor IT (2019)
+"""
 def onchange_validate_registry(self):
 #import re
 #from odoo.exceptions import UserError
