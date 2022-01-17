@@ -1,3 +1,7 @@
+"""
+Python code implemented in ERP Odoo by Q.Factor IT (2019)
+Data collection for accounts with "paid" status
+"""
 for rec in records:
 
 	obj_ap = env['account.payment']
